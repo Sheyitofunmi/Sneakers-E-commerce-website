@@ -367,7 +367,7 @@ body{
 /* HOME */
 
 .hero{ 
-    background-image: url("./my images/home2.jpg");
+    background-image: url("my images/home2.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
